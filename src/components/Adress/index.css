@@ -1,0 +1,19 @@
+.add {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ed9121;
+  font-size: 14px;
+
+}
+.region{
+  font-size: 14px;
+  padding-bottom: 8px;
+  font-family: sans-serif;
+
+}
+
+.zip{
+  font-size: 14px;
+  font-family: sans-serif;
+}

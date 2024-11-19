@@ -1,0 +1,23 @@
+.user-list-wrapper {
+  width: 1200px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.name {
+  font-size: 26px;
+  padding-bottom: 8px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.email {
+  padding-top: 10px;
+  font-size: 18px;
+}
+.phone {
+  font-size: 18px;
+  flex-direction: column;
+}
